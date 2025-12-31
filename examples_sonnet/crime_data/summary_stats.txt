@@ -1,0 +1,69 @@
+================================================================================
+COMPREHENSIVE STATISTICAL SUMMARY
+================================================================================
+
+1. DATASET OVERVIEW
+   Total records: 1,004,991
+   Date range: 2020-01-01 to 2025-05-29
+   Number of columns: 29
+   Exact duplicates: 0
+
+2. TEMPORAL STATISTICS
+   Peak crime hour: 12:00 (67,813 crimes)
+   Lowest crime hour: 5:00 (17,290 crimes)
+   Most crimes day: Fri (153,676 crimes)
+   Least crimes day: Tue (138,141 crimes)
+   Crimes per year: {2020: 199847, 2021: 209876, 2022: 235259, 2023: 232345, 2024: 127567, 2025: 97}
+
+3. CRIME TYPE STATISTICS
+   Total crime types: 140
+   Most common crime: VEHICLE - STOLEN
+   Frequency: 115,190 (11.5%)
+   Part 1 (Serious) crimes: 602,645 (60.0%)
+   Part 2 crimes: 402,346 (40.0%)
+   Top 7 crime types account for 50% of all crimes
+   Top 15 crime types account for 80% of all crimes
+
+4. VICTIM STATISTICS
+   Age = 0 (unknown): 269,222 (26.8%)
+   Negative ages: 137
+   Valid age range: 2 to 120
+   Median age: 37
+   Mean age: 39.5
+
+   Sex distribution:
+      Male: 403,879 (40.2%)
+      Female: 358,580 (35.7%)
+      Unknown: 242,418 (24.1%)
+      Transgender/Other: 114 (0.0%)
+
+5. LOCATION STATISTICS
+   LAPD Areas: 21
+   Highest crime area: Central (69,670 crimes)
+   Lowest crime area: Foothill (33,133 crimes)
+   Missing coordinates: 2,240 (0.22%)
+   Total premise types: 307
+   Most common premise: STREET (261,284)
+
+6. WEAPON STATISTICS
+   Unknown weapon: 677,744 (67.4%)
+   Most common weapon: STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE)
+   Frequency: 174,761
+
+7. CASE STATUS
+   Invest Cont: 802,862 (79.9%)
+   Adult Other: 109,802 (10.9%)
+   Adult Arrest: 87,155 (8.7%)
+   Juv Arrest: 3,286 (0.3%)
+   Juv Other: 1,879 (0.2%)
+   UNK: 7 (0.0%)
+   Total arrests: 90,441 (9.0%)
+
+8. REPORTING DELAY
+   Median delay: 1 days
+   Mean delay: 12.2 days
+   Same-day reports: 482,066 (48.0%)
+   Reported within 7 days: 872,852 (86.9%)
+   Reported after 1 year: 7,523 (0.7%)
+
+================================================================================

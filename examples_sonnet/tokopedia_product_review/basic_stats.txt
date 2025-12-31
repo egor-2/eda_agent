@@ -1,0 +1,52 @@
+TOKOPEDIA PRODUCT REVIEWS - BASIC STATISTICS
+============================================================
+
+Dataset shape: 65543 reviews, 13 columns
+
+Columns:
+  - review_text: object
+  - review_date: datetime64[ns]
+  - review_id: int64
+  - product_name: object
+  - product_category: object
+  - product_variant: object
+  - product_price: int64
+  - product_url: object
+  - product_id: int64
+  - rating: int64
+  - sold_count: int64
+  - shop_id: int64
+  - sentiment_label: object
+
+============================================================
+MISSING VALUES
+============================================================
+product_variant: 38794 (59.19%)
+
+============================================================
+UNIQUE VALUES COUNT
+============================================================
+review_date: 2845
+review_id: 65543
+product_name: 5418
+product_category: 6
+product_variant: 5511
+product_price: 2561
+product_id: 5521
+rating: 5
+sold_count: 48
+shop_id: 856
+sentiment_label: 3
+
+============================================================
+DATE RANGE
+============================================================
+From: 2015-11-18 00:00:00
+To: 2025-12-12 00:00:00
+Range: 3677 days
+
+============================================================
+DUPLICATE ROWS
+============================================================
+Exact duplicate rows: 0
+Duplicate review_ids: 0
